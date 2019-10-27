@@ -404,7 +404,7 @@ def get_sell20():
 
 # GUI implementation. All elements are created in order of their display from top/left to bottom/right.
 top = tkinter.Tk()
-top.title("Technical Analysis Indicators")
+top.title("Ticker Picker")
 top.width = "15c"
 
 topframe = Frame(top)
