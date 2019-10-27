@@ -272,6 +272,10 @@ val.pack()
 databutton = tkinter.Button(
     top, text="Get data for this stock", command=lambda: run_ticker(val.get().upper()))
 databutton.pack()
+val2 = tkinter.Entry(top)
+val2.pack()
 indicatorbutton = tkinter.Button(
-    top, text="Get the summarized indicator chart for this stock", command=lambda: get_graph(val2.get().upper()))
+    # top, text="Get the summarized indicator chart for this stock", command=lambda: (val2.get().upper()))
+)
+indicatorbutton.pack()
 top.mainloop()
