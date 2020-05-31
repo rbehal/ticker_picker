@@ -1,6 +1,6 @@
 # ticker_picker
 
-![Devpost Link](https://devpost.com/software/ticker_picker) 
+[Devpost Link](https://devpost.com/software/ticker_picker) 
 
 yHacks FinTech Application: The Ticker Picker
 
